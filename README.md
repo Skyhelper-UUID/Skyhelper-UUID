@@ -1,0 +1,1 @@
+- QOL UUID checker for HypixelSkyblock
